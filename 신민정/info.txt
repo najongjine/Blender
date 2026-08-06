@@ -1,0 +1,2 @@
+* cube를 부드러운 빵 모양
+- modifier -> subdivision

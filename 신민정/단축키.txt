@@ -1,0 +1,53 @@
+.  obj 확대, 화면 중앙
+
+keypad 9 - 반전
+keypad 5 - 원근법, 평면법
+
+shift + 우클릭 cursor 위치 변경
+
+shift+c cursor 0,0,0 으로 위치
+
+shift + s  obj snap
+
+/  focus mode
+
+a 전체선택
+alt a 전체선택 해재
+
+F9  circle, sphere 같은 설정이 필요한 mesh들 메뉴 다시 띄워주는것
+
+n item 메뉴 나옴
+
+ctrl a  apply
+
+.    pivot 기준 뭘로할지
+
+
+alt click
+ctrl click
+ctrl shift click
+
+ctrl + | -
+
+alt d  링크복제
+
+shift d   obj 요소 복제
+
+shift tab   snap
+
+
+alt n   normals 메뉴
+전체선택 shift n   뒤집힌 normal 수정
+
+o  비례편집 모드
+
+
+ctrl b    z    p      bevel
+k    knife
+ctrl r     loop cut
+e   alt e    extrude
+i    inset
+
+
+ctrl f    face menu
+
