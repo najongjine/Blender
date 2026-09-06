@@ -1,0 +1,52 @@
+{
+  "mesh_objects": 8,
+  "triangles": 59425,
+  "vertices": 30230,
+  "bones": 42,
+  "height_m": 1.6032103300094604,
+  "uv_all_meshes": true,
+  "max_influences": 4,
+  "all_vertices_weighted": true,
+  "max_weight_sum_error": 5.21540641784668e-08,
+  "glb": {
+    "animations": [
+      "Idle",
+      "Rig_Check"
+    ],
+    "skins": 1,
+    "meshes": 8,
+    "materials": 13,
+    "embedded_images": 1
+  },
+  "glb_reimport": {
+    "meshes": 8,
+    "armatures": 1,
+    "bones": [
+      42
+    ],
+    "actions": [
+      "Idle_Gyaru_Rig",
+      "Rig_Check_Gyaru_Rig"
+    ],
+    "height": 1.5982105182483792,
+    "all_uv": true,
+    "skinned_meshes": 8
+  },
+  "fbx_reimport": {
+    "meshes": 8,
+    "armatures": 1,
+    "bones": [
+      42
+    ],
+    "actions": [
+      "Gyaru_Rig|Gyaru_Rig|Idle",
+      "Gyaru_Rig|Gyaru_Rig|Rig_Check"
+    ],
+    "height": 1.5982100907713175,
+    "all_uv": true,
+    "skinned_meshes": 8
+  },
+  "polish": "Stitches projected onto garment with transferred weights; thigh surface relaxed.",
+  "glb_final_validation": "PASS: 8 skinned meshes, 42 bones, UVs, 2 animation clips",
+  "fbx_final_validation": "PASS: 8 skinned meshes, 42 bones, UVs, 2 animation clips"
+}

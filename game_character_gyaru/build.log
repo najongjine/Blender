@@ -1,0 +1,314 @@
+TBBmalloc: skip allocation functions replacement in ucrtbase.dll: unknown prologue for function _msize
+Blender 3.6.7 (hash cbd81f283d58 built 2023-12-12 10:03:21)
+Info: Total files 5 | Changed 5 | Failed 0
+Fra:1 Mem:55.22M (Peak 56.30M) | Time:00:00.38 | Syncing Body_skin
+Fra:1 Mem:58.90M (Peak 59.07M) | Time:00:00.39 | Syncing Gyaru_Rig
+Fra:1 Mem:58.91M (Peak 59.07M) | Time:00:00.39 | Syncing Head
+Fra:1 Mem:59.21M (Peak 59.21M) | Time:00:00.39 | Syncing Nose
+Fra:1 Mem:59.26M (Peak 59.26M) | Time:00:00.39 | Syncing Nose_bridge
+Fra:1 Mem:59.30M (Peak 59.30M) | Time:00:00.39 | Syncing Ear_L
+Fra:1 Mem:59.36M (Peak 59.36M) | Time:00:00.39 | Syncing Ear_inner_L
+Fra:1 Mem:59.39M (Peak 59.39M) | Time:00:00.39 | Syncing Eye_white_L
+Fra:1 Mem:59.43M (Peak 59.43M) | Time:00:00.39 | Syncing Iris_rim_L
+Fra:1 Mem:59.48M (Peak 59.48M) | Time:00:00.39 | Syncing Iris_L
+Fra:1 Mem:59.54M (Peak 59.54M) | Time:00:00.40 | Syncing Pupil_L
+Fra:1 Mem:59.60M (Peak 59.60M) | Time:00:00.40 | Syncing Eye_glint_L
+Fra:1 Mem:59.62M (Peak 59.62M) | Time:00:00.40 | Syncing Upper_lash_L
+Fra:1 Mem:59.66M (Peak 59.66M) | Time:00:00.40 | Syncing Lower_lid_L
+Fra:1 Mem:59.68M (Peak 59.68M) | Time:00:00.40 | Syncing Lash_tip_L0
+Fra:1 Mem:59.70M (Peak 59.70M) | Time:00:00.40 | Syncing Lash_tip_L1
+Fra:1 Mem:59.71M (Peak 59.71M) | Time:00:00.40 | Syncing Eyebrow_L
+Fra:1 Mem:59.73M (Peak 59.73M) | Time:00:00.40 | Syncing Earring_L
+Fra:1 Mem:59.77M (Peak 59.77M) | Time:00:00.40 | Syncing Ear_R
+Fra:1 Mem:59.82M (Peak 59.82M) | Time:00:00.40 | Syncing Ear_inner_R
+Fra:1 Mem:59.85M (Peak 59.85M) | Time:00:00.40 | Syncing Eye_white_R
+Fra:1 Mem:59.89M (Peak 59.89M) | Time:00:00.40 | Syncing Iris_rim_R
+Fra:1 Mem:59.95M (Peak 59.95M) | Time:00:00.40 | Syncing Iris_R
+Fra:1 Mem:60.00M (Peak 60.00M) | Time:00:00.40 | Syncing Pupil_R
+Fra:1 Mem:60.06M (Peak 60.06M) | Time:00:00.40 | Syncing Eye_glint_R
+Fra:1 Mem:60.07M (Peak 60.07M) | Time:00:00.40 | Syncing Upper_lash_R
+Fra:1 Mem:60.11M (Peak 60.11M) | Time:00:00.40 | Syncing Lower_lid_R
+Fra:1 Mem:60.14M (Peak 60.14M) | Time:00:00.40 | Syncing Lash_tip_R0
+Fra:1 Mem:60.15M (Peak 60.15M) | Time:00:00.40 | Syncing Lash_tip_R1
+Fra:1 Mem:60.17M (Peak 60.17M) | Time:00:00.40 | Syncing Eyebrow_R
+Fra:1 Mem:60.19M (Peak 60.19M) | Time:00:00.40 | Syncing Earring_R
+Fra:1 Mem:60.23M (Peak 60.23M) | Time:00:00.40 | Syncing Upper_lip
+Fra:1 Mem:60.27M (Peak 60.27M) | Time:00:00.40 | Syncing Lower_lip
+Fra:1 Mem:60.29M (Peak 60.29M) | Time:00:00.40 | Syncing Mouth_line
+Fra:1 Mem:60.32M (Peak 60.32M) | Time:00:00.40 | Syncing Top_hem
+Fra:1 Mem:60.47M (Peak 60.47M) | Time:00:00.40 | Syncing Denim_shorts
+Fra:1 Mem:60.74M (Peak 60.74M) | Time:00:00.40 | Syncing Shorts_cuff_L
+Fra:1 Mem:60.87M (Peak 60.87M) | Time:00:00.40 | Syncing Cuff_stitch_L
+Fra:1 Mem:61.00M (Peak 61.00M) | Time:00:00.40 | Syncing Front_pocket_L
+Fra:1 Mem:61.02M (Peak 61.02M) | Time:00:00.40 | Syncing Back_pocket_L
+Fra:1 Mem:61.07M (Peak 61.07M) | Time:00:00.40 | Syncing Side_seam_L
+Fra:1 Mem:61.09M (Peak 61.09M) | Time:00:00.40 | Syncing Shorts_cuff_R
+Fra:1 Mem:61.22M (Peak 61.22M) | Time:00:00.40 | Syncing Cuff_stitch_R
+Fra:1 Mem:61.35M (Peak 61.35M) | Time:00:00.40 | Syncing Front_pocket_R
+Fra:1 Mem:61.37M (Peak 61.37M) | Time:00:00.40 | Syncing Back_pocket_R
+Fra:1 Mem:61.42M (Peak 61.42M) | Time:00:00.40 | Syncing Side_seam_R
+Fra:1 Mem:61.44M (Peak 61.44M) | Time:00:00.40 | Syncing Waistband_stitch
+Fra:1 Mem:61.60M (Peak 61.60M) | Time:00:00.40 | Syncing Fly_seam
+Fra:1 Mem:61.62M (Peak 61.62M) | Time:00:00.40 | Syncing Waist_button
+Fra:1 Mem:61.64M (Peak 61.64M) | Time:00:00.40 | Syncing Sneaker_sole_L
+Fra:1 Mem:61.70M (Peak 61.70M) | Time:00:00.40 | Syncing Sneaker_upper_L
+Fra:1 Mem:61.76M (Peak 61.76M) | Time:00:00.40 | Syncing Sneaker_collar_L
+Fra:1 Mem:61.81M (Peak 61.81M) | Time:00:00.40 | Syncing Lace_L0
+Fra:1 Mem:61.84M (Peak 61.84M) | Time:00:00.40 | Syncing Lace_L1
+Fra:1 Mem:61.86M (Peak 61.86M) | Time:00:00.40 | Syncing Lace_L2
+Fra:1 Mem:61.88M (Peak 61.88M) | Time:00:00.40 | Syncing Lace_L3
+Fra:1 Mem:61.91M (Peak 61.91M) | Time:00:00.40 | Syncing Sole_seam_L
+Fra:1 Mem:62.03M (Peak 62.03M) | Time:00:00.40 | Syncing Sneaker_sole_R
+Fra:1 Mem:62.09M (Peak 62.09M) | Time:00:00.40 | Syncing Sneaker_upper_R
+Fra:1 Mem:62.14M (Peak 62.14M) | Time:00:00.40 | Syncing Sneaker_collar_R
+Fra:1 Mem:62.20M (Peak 62.20M) | Time:00:00.40 | Syncing Lace_R0
+Fra:1 Mem:62.22M (Peak 62.22M) | Time:00:00.40 | Syncing Lace_R1
+Fra:1 Mem:62.25M (Peak 62.25M) | Time:00:00.40 | Syncing Lace_R2
+Fra:1 Mem:62.27M (Peak 62.27M) | Time:00:00.40 | Syncing Lace_R3
+Fra:1 Mem:62.30M (Peak 62.30M) | Time:00:00.40 | Syncing Sole_seam_R
+Fra:1 Mem:62.42M (Peak 62.42M) | Time:00:00.40 | Syncing Hair_cap
+Fra:1 Mem:62.70M (Peak 62.70M) | Time:00:00.47 | Syncing Hair_wave_00
+Fra:1 Mem:62.76M (Peak 62.76M) | Time:00:00.47 | Syncing Hair_wave_01
+Fra:1 Mem:62.81M (Peak 62.81M) | Time:00:00.47 | Syncing Hair_wave_02
+Fra:1 Mem:62.87M (Peak 62.87M) | Time:00:00.47 | Syncing Hair_wave_03
+Fra:1 Mem:62.92M (Peak 62.92M) | Time:00:00.47 | Syncing Hair_wave_04
+Fra:1 Mem:62.98M (Peak 62.98M) | Time:00:00.47 | Syncing Hair_wave_05
+Fra:1 Mem:63.07M (Peak 63.07M) | Time:00:00.47 | Syncing Hair_wave_06
+Fra:1 Mem:63.12M (Peak 63.12M) | Time:00:00.47 | Syncing Hair_wave_07
+Fra:1 Mem:63.18M (Peak 63.18M) | Time:00:00.47 | Syncing Hair_wave_08
+Fra:1 Mem:63.24M (Peak 63.24M) | Time:00:00.47 | Syncing Hair_wave_09
+Fra:1 Mem:63.29M (Peak 63.29M) | Time:00:00.47 | Syncing Hair_wave_10
+Fra:1 Mem:63.35M (Peak 63.35M) | Time:00:00.47 | Syncing Hair_wave_11
+Fra:1 Mem:63.40M (Peak 63.40M) | Time:00:00.47 | Syncing Hair_wave_12
+Fra:1 Mem:63.46M (Peak 63.46M) | Time:00:00.47 | Syncing Fringe_sweep_R
+Fra:1 Mem:63.51M (Peak 63.51M) | Time:00:00.47 | Syncing Fringe_sweep_L
+Fra:1 Mem:63.55M (Peak 63.55M) | Time:00:00.47 | Syncing Face_frame_L
+Fra:1 Mem:63.60M (Peak 63.60M) | Time:00:00.47 | Syncing Face_frame_R
+Fra:1 Mem:63.65M (Peak 63.65M) | Time:00:00.47 | Syncing Tank_top
+Fra:1 Mem:64.12M (Peak 64.12M) | Time:00:00.47 | Syncing Front
+Fra:1 Mem:64.12M (Peak 64.12M) | Time:00:00.47 | Syncing Side
+Fra:1 Mem:64.12M (Peak 64.12M) | Time:00:00.47 | Syncing Back
+Fra:1 Mem:64.12M (Peak 64.12M) | Time:00:00.47 | Syncing ThreeQuarter
+Fra:1 Mem:64.12M (Peak 64.12M) | Time:00:00.47 | Syncing Key
+Fra:1 Mem:64.12M (Peak 64.12M) | Time:00:00.47 | Syncing Fill
+Fra:1 Mem:64.12M (Peak 64.12M) | Time:00:00.47 | Syncing Rim
+Fra:1 Mem:64.13M (Peak 64.13M) | Time:00:00.47 | Syncing Studio_ground
+Fra:1 Mem:64.08M (Peak 64.13M) | Time:00:00.47 | Rendering 1 / 96 samples
+Fra:1 Mem:57.43M (Peak 64.13M) | Time:00:00.58 | Rendering 26 / 96 samples
+Fra:1 Mem:57.43M (Peak 64.13M) | Time:00:00.63 | Rendering 51 / 96 samples
+Fra:1 Mem:57.43M (Peak 64.13M) | Time:00:00.68 | Rendering 76 / 96 samples
+Fra:1 Mem:57.43M (Peak 64.13M) | Time:00:00.73 | Rendering 96 / 96 samples
+Saved: 'E:\Blender\game_character_gyaru\renders_v2\front.png'
+ Time: 00:01.25 (Saving: 00:00.50)
+
+Fra:1 Mem:55.65M (Peak 55.65M) | Time:00:00.01 | Syncing Body_skin
+Fra:1 Mem:59.14M (Peak 59.31M) | Time:00:00.01 | Syncing Gyaru_Rig
+Fra:1 Mem:59.14M (Peak 59.31M) | Time:00:00.01 | Syncing Head
+Fra:1 Mem:59.43M (Peak 59.43M) | Time:00:00.01 | Syncing Nose
+Fra:1 Mem:59.48M (Peak 59.48M) | Time:00:00.01 | Syncing Nose_bridge
+Fra:1 Mem:59.52M (Peak 59.52M) | Time:00:00.01 | Syncing Ear_L
+Fra:1 Mem:59.57M (Peak 59.57M) | Time:00:00.01 | Syncing Ear_inner_L
+Fra:1 Mem:59.60M (Peak 59.60M) | Time:00:00.01 | Syncing Eye_white_L
+Fra:1 Mem:59.64M (Peak 59.64M) | Time:00:00.01 | Syncing Iris_rim_L
+Fra:1 Mem:59.69M (Peak 59.69M) | Time:00:00.01 | Syncing Iris_L
+Fra:1 Mem:59.75M (Peak 59.75M) | Time:00:00.01 | Syncing Pupil_L
+Fra:1 Mem:59.80M (Peak 59.80M) | Time:00:00.01 | Syncing Eye_glint_L
+Fra:1 Mem:59.82M (Peak 59.82M) | Time:00:00.01 | Syncing Upper_lash_L
+Fra:1 Mem:59.86M (Peak 59.86M) | Time:00:00.01 | Syncing Lower_lid_L
+Fra:1 Mem:59.88M (Peak 59.88M) | Time:00:00.01 | Syncing Lash_tip_L0
+Fra:1 Mem:59.89M (Peak 59.89M) | Time:00:00.01 | Syncing Lash_tip_L1
+Fra:1 Mem:59.91M (Peak 59.91M) | Time:00:00.01 | Syncing Eyebrow_L
+Fra:1 Mem:59.93M (Peak 59.93M) | Time:00:00.01 | Syncing Earring_L
+Fra:1 Mem:59.96M (Peak 59.96M) | Time:00:00.01 | Syncing Ear_R
+Fra:1 Mem:60.02M (Peak 60.02M) | Time:00:00.01 | Syncing Ear_inner_R
+Fra:1 Mem:60.05M (Peak 60.05M) | Time:00:00.01 | Syncing Eye_white_R
+Fra:1 Mem:60.08M (Peak 60.08M) | Time:00:00.01 | Syncing Iris_rim_R
+Fra:1 Mem:60.13M (Peak 60.13M) | Time:00:00.01 | Syncing Iris_R
+Fra:1 Mem:60.19M (Peak 60.19M) | Time:00:00.01 | Syncing Pupil_R
+Fra:1 Mem:60.24M (Peak 60.24M) | Time:00:00.01 | Syncing Eye_glint_R
+Fra:1 Mem:60.26M (Peak 60.26M) | Time:00:00.01 | Syncing Upper_lash_R
+Fra:1 Mem:60.29M (Peak 60.29M) | Time:00:00.01 | Syncing Lower_lid_R
+Fra:1 Mem:60.32M (Peak 60.32M) | Time:00:00.01 | Syncing Lash_tip_R0
+Fra:1 Mem:60.33M (Peak 60.33M) | Time:00:00.01 | Syncing Lash_tip_R1
+Fra:1 Mem:60.35M (Peak 60.35M) | Time:00:00.01 | Syncing Eyebrow_R
+Fra:1 Mem:60.37M (Peak 60.37M) | Time:00:00.01 | Syncing Earring_R
+Fra:1 Mem:60.40M (Peak 60.40M) | Time:00:00.01 | Syncing Upper_lip
+Fra:1 Mem:60.44M (Peak 60.44M) | Time:00:00.01 | Syncing Lower_lip
+Fra:1 Mem:60.46M (Peak 60.46M) | Time:00:00.01 | Syncing Mouth_line
+Fra:1 Mem:60.49M (Peak 60.49M) | Time:00:00.01 | Syncing Top_hem
+Fra:1 Mem:60.63M (Peak 60.63M) | Time:00:00.01 | Syncing Denim_shorts
+Fra:1 Mem:60.89M (Peak 60.89M) | Time:00:00.01 | Syncing Shorts_cuff_L
+Fra:1 Mem:61.01M (Peak 61.01M) | Time:00:00.01 | Syncing Cuff_stitch_L
+Fra:1 Mem:61.14M (Peak 61.14M) | Time:00:00.01 | Syncing Front_pocket_L
+Fra:1 Mem:61.16M (Peak 61.16M) | Time:00:00.02 | Syncing Back_pocket_L
+Fra:1 Mem:61.21M (Peak 61.21M) | Time:00:00.02 | Syncing Side_seam_L
+Fra:1 Mem:61.23M (Peak 61.23M) | Time:00:00.02 | Syncing Shorts_cuff_R
+Fra:1 Mem:61.35M (Peak 61.35M) | Time:00:00.02 | Syncing Cuff_stitch_R
+Fra:1 Mem:61.47M (Peak 61.47M) | Time:00:00.02 | Syncing Front_pocket_R
+Fra:1 Mem:61.50M (Peak 61.50M) | Time:00:00.02 | Syncing Back_pocket_R
+Fra:1 Mem:61.54M (Peak 61.54M) | Time:00:00.02 | Syncing Side_seam_R
+Fra:1 Mem:61.57M (Peak 61.57M) | Time:00:00.02 | Syncing Waistband_stitch
+Fra:1 Mem:61.71M (Peak 61.71M) | Time:00:00.02 | Syncing Fly_seam
+Fra:1 Mem:61.74M (Peak 61.74M) | Time:00:00.02 | Syncing Waist_button
+Fra:1 Mem:61.76M (Peak 61.76M) | Time:00:00.02 | Syncing Sneaker_sole_L
+Fra:1 Mem:61.81M (Peak 61.81M) | Time:00:00.02 | Syncing Sneaker_upper_L
+Fra:1 Mem:61.86M (Peak 61.86M) | Time:00:00.02 | Syncing Sneaker_collar_L
+Fra:1 Mem:61.92M (Peak 61.92M) | Time:00:00.02 | Syncing Lace_L0
+Fra:1 Mem:61.94M (Peak 61.94M) | Time:00:00.02 | Syncing Lace_L1
+Fra:1 Mem:61.96M (Peak 61.96M) | Time:00:00.02 | Syncing Lace_L2
+Fra:1 Mem:61.99M (Peak 61.99M) | Time:00:00.02 | Syncing Lace_L3
+Fra:1 Mem:62.01M (Peak 62.01M) | Time:00:00.02 | Syncing Sole_seam_L
+Fra:1 Mem:62.13M (Peak 62.13M) | Time:00:00.02 | Syncing Sneaker_sole_R
+Fra:1 Mem:62.18M (Peak 62.18M) | Time:00:00.02 | Syncing Sneaker_upper_R
+Fra:1 Mem:62.24M (Peak 62.24M) | Time:00:00.02 | Syncing Sneaker_collar_R
+Fra:1 Mem:62.29M (Peak 62.29M) | Time:00:00.02 | Syncing Lace_R0
+Fra:1 Mem:62.31M (Peak 62.31M) | Time:00:00.02 | Syncing Lace_R1
+Fra:1 Mem:62.33M (Peak 62.33M) | Time:00:00.02 | Syncing Lace_R2
+Fra:1 Mem:62.36M (Peak 62.36M) | Time:00:00.02 | Syncing Lace_R3
+Fra:1 Mem:62.38M (Peak 62.38M) | Time:00:00.02 | Syncing Sole_seam_R
+Fra:1 Mem:62.50M (Peak 62.50M) | Time:00:00.02 | Syncing Hair_cap
+Fra:1 Mem:62.76M (Peak 62.76M) | Time:00:00.02 | Syncing Hair_wave_00
+Fra:1 Mem:62.81M (Peak 62.81M) | Time:00:00.02 | Syncing Hair_wave_01
+Fra:1 Mem:62.87M (Peak 62.87M) | Time:00:00.02 | Syncing Hair_wave_02
+Fra:1 Mem:62.92M (Peak 62.92M) | Time:00:00.02 | Syncing Hair_wave_03
+Fra:1 Mem:62.98M (Peak 62.98M) | Time:00:00.02 | Syncing Hair_wave_04
+Fra:1 Mem:63.03M (Peak 63.03M) | Time:00:00.02 | Syncing Hair_wave_05
+Fra:1 Mem:63.12M (Peak 63.12M) | Time:00:00.02 | Syncing Hair_wave_06
+Fra:1 Mem:63.17M (Peak 63.17M) | Time:00:00.02 | Syncing Hair_wave_07
+Fra:1 Mem:63.22M (Peak 63.22M) | Time:00:00.02 | Syncing Hair_wave_08
+Fra:1 Mem:63.28M (Peak 63.28M) | Time:00:00.02 | Syncing Hair_wave_09
+Fra:1 Mem:63.33M (Peak 63.33M) | Time:00:00.02 | Syncing Hair_wave_10
+Fra:1 Mem:63.39M (Peak 63.39M) | Time:00:00.02 | Syncing Hair_wave_11
+Fra:1 Mem:63.44M (Peak 63.44M) | Time:00:00.02 | Syncing Hair_wave_12
+Fra:1 Mem:63.50M (Peak 63.50M) | Time:00:00.02 | Syncing Fringe_sweep_R
+Fra:1 Mem:63.54M (Peak 63.54M) | Time:00:00.02 | Syncing Fringe_sweep_L
+Fra:1 Mem:63.58M (Peak 63.58M) | Time:00:00.02 | Syncing Face_frame_L
+Fra:1 Mem:63.63M (Peak 63.63M) | Time:00:00.02 | Syncing Face_frame_R
+Fra:1 Mem:63.68M (Peak 63.68M) | Time:00:00.02 | Syncing Tank_top
+Fra:1 Mem:64.13M (Peak 64.13M) | Time:00:00.02 | Syncing Front
+Fra:1 Mem:64.13M (Peak 64.13M) | Time:00:00.02 | Syncing Side
+Fra:1 Mem:64.13M (Peak 64.13M) | Time:00:00.02 | Syncing Back
+Fra:1 Mem:64.13M (Peak 64.13M) | Time:00:00.02 | Syncing ThreeQuarter
+Fra:1 Mem:64.13M (Peak 64.13M) | Time:00:00.02 | Syncing Key
+Fra:1 Mem:64.13M (Peak 64.13M) | Time:00:00.02 | Syncing Fill
+Fra:1 Mem:64.13M (Peak 64.13M) | Time:00:00.02 | Syncing Rim
+Fra:1 Mem:64.14M (Peak 64.14M) | Time:00:00.02 | Syncing Studio_ground
+Fra:1 Mem:64.09M (Peak 64.14M) | Time:00:00.02 | Rendering 1 / 96 samples
+Fra:1 Mem:57.43M (Peak 64.14M) | Time:00:00.11 | Rendering 26 / 96 samples
+Fra:1 Mem:57.43M (Peak 64.14M) | Time:00:00.17 | Rendering 51 / 96 samples
+Fra:1 Mem:57.43M (Peak 64.14M) | Time:00:00.23 | Rendering 76 / 96 samples
+Fra:1 Mem:57.43M (Peak 64.14M) | Time:00:00.27 | Rendering 96 / 96 samples
+Saved: 'E:\Blender\game_character_gyaru\renders_v2\side.png'
+ Time: 00:00.39 (Saving: 00:00.10)
+
+Fra:1 Mem:55.65M (Peak 55.65M) | Time:00:00.01 | Syncing Body_skin
+Fra:1 Mem:59.14M (Peak 59.31M) | Time:00:00.02 | Syncing Gyaru_Rig
+Fra:1 Mem:59.14M (Peak 59.31M) | Time:00:00.02 | Syncing Head
+Fra:1 Mem:59.43M (Peak 59.43M) | Time:00:00.02 | Syncing Nose
+Fra:1 Mem:59.48M (Peak 59.48M) | Time:00:00.02 | Syncing Nose_bridge
+Fra:1 Mem:59.52M (Peak 59.52M) | Time:00:00.02 | Syncing Ear_L
+Fra:1 Mem:59.57M (Peak 59.57M) | Time:00:00.02 | Syncing Ear_inner_L
+Fra:1 Mem:59.60M (Peak 59.60M) | Time:00:00.02 | Syncing Eye_white_L
+Fra:1 Mem:59.64M (Peak 59.64M) | Time:00:00.02 | Syncing Iris_rim_L
+Fra:1 Mem:59.69M (Peak 59.69M) | Time:00:00.02 | Syncing Iris_L
+Fra:1 Mem:59.75M (Peak 59.75M) | Time:00:00.02 | Syncing Pupil_L
+Fra:1 Mem:59.80M (Peak 59.80M) | Time:00:00.02 | Syncing Eye_glint_L
+Fra:1 Mem:59.82M (Peak 59.82M) | Time:00:00.02 | Syncing Upper_lash_L
+Fra:1 Mem:59.86M (Peak 59.86M) | Time:00:00.02 | Syncing Lower_lid_L
+Fra:1 Mem:59.88M (Peak 59.88M) | Time:00:00.02 | Syncing Lash_tip_L0
+Fra:1 Mem:59.89M (Peak 59.89M) | Time:00:00.02 | Syncing Lash_tip_L1
+Fra:1 Mem:59.91M (Peak 59.91M) | Time:00:00.02 | Syncing Eyebrow_L
+Fra:1 Mem:59.93M (Peak 59.93M) | Time:00:00.02 | Syncing Earring_L
+Fra:1 Mem:59.96M (Peak 59.96M) | Time:00:00.02 | Syncing Ear_R
+Fra:1 Mem:60.02M (Peak 60.02M) | Time:00:00.02 | Syncing Ear_inner_R
+Fra:1 Mem:60.05M (Peak 60.05M) | Time:00:00.02 | Syncing Eye_white_R
+Fra:1 Mem:60.08M (Peak 60.08M) | Time:00:00.02 | Syncing Iris_rim_R
+Fra:1 Mem:60.13M (Peak 60.13M) | Time:00:00.02 | Syncing Iris_R
+Fra:1 Mem:60.19M (Peak 60.19M) | Time:00:00.02 | Syncing Pupil_R
+Fra:1 Mem:60.24M (Peak 60.24M) | Time:00:00.02 | Syncing Eye_glint_R
+Fra:1 Mem:60.26M (Peak 60.26M) | Time:00:00.02 | Syncing Upper_lash_R
+Fra:1 Mem:60.29M (Peak 60.29M) | Time:00:00.02 | Syncing Lower_lid_R
+Fra:1 Mem:60.32M (Peak 60.32M) | Time:00:00.02 | Syncing Lash_tip_R0
+Fra:1 Mem:60.33M (Peak 60.33M) | Time:00:00.02 | Syncing Lash_tip_R1
+Fra:1 Mem:60.35M (Peak 60.35M) | Time:00:00.02 | Syncing Eyebrow_R
+Fra:1 Mem:60.37M (Peak 60.37M) | Time:00:00.02 | Syncing Earring_R
+Fra:1 Mem:60.40M (Peak 60.40M) | Time:00:00.02 | Syncing Upper_lip
+Fra:1 Mem:60.44M (Peak 60.44M) | Time:00:00.02 | Syncing Lower_lip
+Fra:1 Mem:60.46M (Peak 60.46M) | Time:00:00.02 | Syncing Mouth_line
+Fra:1 Mem:60.49M (Peak 60.49M) | Time:00:00.02 | Syncing Top_hem
+Fra:1 Mem:60.63M (Peak 60.63M) | Time:00:00.02 | Syncing Denim_shorts
+Fra:1 Mem:60.89M (Peak 60.89M) | Time:00:00.02 | Syncing Shorts_cuff_L
+Fra:1 Mem:61.01M (Peak 61.01M) | Time:00:00.02 | Syncing Cuff_stitch_L
+Fra:1 Mem:61.14M (Peak 61.14M) | Time:00:00.02 | Syncing Front_pocket_L
+Fra:1 Mem:61.16M (Peak 61.16M) | Time:00:00.02 | Syncing Back_pocket_L
+Fra:1 Mem:61.21M (Peak 61.21M) | Time:00:00.02 | Syncing Side_seam_L
+Fra:1 Mem:61.23M (Peak 61.23M) | Time:00:00.02 | Syncing Shorts_cuff_R
+Fra:1 Mem:61.35M (Peak 61.35M) | Time:00:00.02 | Syncing Cuff_stitch_R
+Fra:1 Mem:61.47M (Peak 61.47M) | Time:00:00.02 | Syncing Front_pocket_R
+Fra:1 Mem:61.50M (Peak 61.50M) | Time:00:00.02 | Syncing Back_pocket_R
+Fra:1 Mem:61.54M (Peak 61.54M) | Time:00:00.02 | Syncing Side_seam_R
+Fra:1 Mem:61.57M (Peak 61.57M) | Time:00:00.02 | Syncing Waistband_stitch
+Fra:1 Mem:61.71M (Peak 61.71M) | Time:00:00.02 | Syncing Fly_seam
+Fra:1 Mem:61.74M (Peak 61.74M) | Time:00:00.02 | Syncing Waist_button
+Fra:1 Mem:61.76M (Peak 61.76M) | Time:00:00.02 | Syncing Sneaker_sole_L
+Fra:1 Mem:61.81M (Peak 61.81M) | Time:00:00.02 | Syncing Sneaker_upper_L
+Fra:1 Mem:61.86M (Peak 61.86M) | Time:00:00.02 | Syncing Sneaker_collar_L
+Fra:1 Mem:61.92M (Peak 61.92M) | Time:00:00.02 | Syncing Lace_L0
+Fra:1 Mem:61.94M (Peak 61.94M) | Time:00:00.02 | Syncing Lace_L1
+Fra:1 Mem:61.96M (Peak 61.96M) | Time:00:00.02 | Syncing Lace_L2
+Fra:1 Mem:61.99M (Peak 61.99M) | Time:00:00.02 | Syncing Lace_L3
+Fra:1 Mem:62.01M (Peak 62.01M) | Time:00:00.02 | Syncing Sole_seam_L
+Fra:1 Mem:62.13M (Peak 62.13M) | Time:00:00.02 | Syncing Sneaker_sole_R
+Fra:1 Mem:62.18M (Peak 62.18M) | Time:00:00.02 | Syncing Sneaker_upper_R
+Fra:1 Mem:62.24M (Peak 62.24M) | Time:00:00.02 | Syncing Sneaker_collar_R
+Fra:1 Mem:62.29M (Peak 62.29M) | Time:00:00.02 | Syncing Lace_R0
+Fra:1 Mem:62.31M (Peak 62.31M) | Time:00:00.02 | Syncing Lace_R1
+Fra:1 Mem:62.33M (Peak 62.33M) | Time:00:00.02 | Syncing Lace_R2
+Fra:1 Mem:62.36M (Peak 62.36M) | Time:00:00.02 | Syncing Lace_R3
+Fra:1 Mem:62.38M (Peak 62.38M) | Time:00:00.02 | Syncing Sole_seam_R
+Fra:1 Mem:62.50M (Peak 62.50M) | Time:00:00.02 | Syncing Hair_cap
+Fra:1 Mem:62.76M (Peak 62.76M) | Time:00:00.02 | Syncing Hair_wave_00
+Fra:1 Mem:62.81M (Peak 62.81M) | Time:00:00.02 | Syncing Hair_wave_01
+Fra:1 Mem:62.87M (Peak 62.87M) | Time:00:00.02 | Syncing Hair_wave_02
+Fra:1 Mem:62.92M (Peak 62.92M) | Time:00:00.02 | Syncing Hair_wave_03
+Fra:1 Mem:62.98M (Peak 62.98M) | Time:00:00.02 | Syncing Hair_wave_04
+Fra:1 Mem:63.03M (Peak 63.03M) | Time:00:00.02 | Syncing Hair_wave_05
+Fra:1 Mem:63.12M (Peak 63.12M) | Time:00:00.02 | Syncing Hair_wave_06
+Fra:1 Mem:63.17M (Peak 63.17M) | Time:00:00.02 | Syncing Hair_wave_07
+Fra:1 Mem:63.22M (Peak 63.22M) | Time:00:00.02 | Syncing Hair_wave_08
+Fra:1 Mem:63.28M (Peak 63.28M) | Time:00:00.02 | Syncing Hair_wave_09
+Fra:1 Mem:63.33M (Peak 63.33M) | Time:00:00.02 | Syncing Hair_wave_10
+Fra:1 Mem:63.39M (Peak 63.39M) | Time:00:00.02 | Syncing Hair_wave_11
+Fra:1 Mem:63.44M (Peak 63.44M) | Time:00:00.02 | Syncing Hair_wave_12
+Fra:1 Mem:63.50M (Peak 63.50M) | Time:00:00.02 | Syncing Fringe_sweep_R
+Fra:1 Mem:63.54M (Peak 63.54M) | Time:00:00.02 | Syncing Fringe_sweep_L
+Fra:1 Mem:63.58M (Peak 63.58M) | Time:00:00.02 | Syncing Face_frame_L
+Fra:1 Mem:63.63M (Peak 63.63M) | Time:00:00.03 | Syncing Face_frame_R
+Fra:1 Mem:63.68M (Peak 63.68M) | Time:00:00.03 | Syncing Tank_top
+Fra:1 Mem:64.13M (Peak 64.13M) | Time:00:00.03 | Syncing Front
+Fra:1 Mem:64.13M (Peak 64.13M) | Time:00:00.03 | Syncing Side
+Fra:1 Mem:64.13M (Peak 64.13M) | Time:00:00.03 | Syncing Back
+Fra:1 Mem:64.13M (Peak 64.13M) | Time:00:00.03 | Syncing ThreeQuarter
+Fra:1 Mem:64.13M (Peak 64.13M) | Time:00:00.03 | Syncing Key
+Fra:1 Mem:64.13M (Peak 64.13M) | Time:00:00.03 | Syncing Fill
+Fra:1 Mem:64.13M (Peak 64.13M) | Time:00:00.03 | Syncing Rim
+Fra:1 Mem:64.14M (Peak 64.14M) | Time:00:00.03 | Syncing Studio_ground
+Fra:1 Mem:64.09M (Peak 64.14M) | Time:00:00.03 | Rendering 1 / 96 samples
+Fra:1 Mem:57.43M (Peak 64.14M) | Time:00:00.12 | Rendering 26 / 96 samples
+Fra:1 Mem:57.43M (Peak 64.14M) | Time:00:00.19 | Rendering 51 / 96 samples
+Fra:1 Mem:57.43M (Peak 64.14M) | Time:00:00.25 | Rendering 76 / 96 samples
+Fra:1 Mem:57.43M (Peak 64.14M) | Time:00:00.30 | Rendering 96 / 96 samples
+E:\Blender\game_character_gyaru\renders_v2\back.png: Invalid argument
+ Time: 00:00.34 (Saving: 00:00.02)
+
+Error: Python: Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "E:\Blender\game_character_gyaru\build_character.py", line 387, in <module>
+    scene.camera=cam;scene.render.filepath=ROOT+'/renders_v2/'+cam.name.lower()+'.png';bpy.ops.render.render(write_still=True)
+  File "E:\blender-3.6.7-windows-x64\3.6\scripts\modules\bpy\ops.py", line 113, in __call__
+    ret = _op_call(self.idname_py(), None, kw)
+RuntimeError: Error: Render error (Invalid argument) cannot save: 'E:\Blender\game_character_gyaru\renders_v2\back.png'
+Info: Saved "gyaru_game_character.blend"
+Error: Render error (Invalid argument) cannot save: 'E:\Blender\game_character_gyaru\renders_v2\back.png'
+
+Blender quit

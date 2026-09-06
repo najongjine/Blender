@@ -1,0 +1,170 @@
+TBBmalloc: skip allocation functions replacement in ucrtbase.dll: unknown prologue for function _msize
+E:\Blender\game_character_gyaru\finalize_validate.py:20: DeprecationWarning: Passing in context overrides is deprecated in favor of Context.temp_override(..), calling "object.modifier_move_up"
+  while o.modifiers.find(mod.name)>0:bpy.ops.object.modifier_move_up({'object':o},modifier=mod.name)
+Blender 3.6.7 (hash cbd81f283d58 built 2023-12-12 10:03:21)
+Read blend: "E:\Blender\game_character_gyaru\gyaru_game_character.blend"
+Fra:1 Mem:45.14M (Peak 46.23M) | Time:00:00.43 | Syncing Body
+Fra:1 Mem:46.56M (Peak 46.56M) | Time:00:00.44 | Syncing Gyaru_Rig
+Fra:1 Mem:46.57M (Peak 46.57M) | Time:00:00.44 | Syncing Face
+Fra:1 Mem:47.18M (Peak 47.18M) | Time:00:00.44 | Syncing Eyes_and_brows
+Fra:1 Mem:47.74M (Peak 47.74M) | Time:00:00.44 | Syncing Accessories
+Fra:1 Mem:47.80M (Peak 47.80M) | Time:00:00.44 | Syncing Top
+Fra:1 Mem:48.01M (Peak 48.01M) | Time:00:00.44 | Syncing Shorts
+Fra:1 Mem:48.55M (Peak 48.55M) | Time:00:00.45 | Syncing Footwear
+Fra:1 Mem:49.04M (Peak 49.04M) | Time:00:00.45 | Syncing Hair
+Fra:1 Mem:50.35M (Peak 50.35M) | Time:00:00.52 | Syncing Front
+Fra:1 Mem:50.35M (Peak 50.35M) | Time:00:00.52 | Syncing Side
+Fra:1 Mem:50.35M (Peak 50.35M) | Time:00:00.52 | Syncing Back
+Fra:1 Mem:50.35M (Peak 50.35M) | Time:00:00.52 | Syncing ThreeQuarter
+Fra:1 Mem:50.35M (Peak 50.35M) | Time:00:00.52 | Syncing Key
+Fra:1 Mem:50.35M (Peak 50.35M) | Time:00:00.52 | Syncing Fill
+Fra:1 Mem:50.35M (Peak 50.35M) | Time:00:00.52 | Syncing Rim
+Fra:1 Mem:50.36M (Peak 50.36M) | Time:00:00.52 | Syncing Studio_ground
+Fra:1 Mem:50.36M (Peak 50.36M) | Time:00:00.53 | Rendering 1 / 96 samples
+Fra:1 Mem:46.51M (Peak 50.36M) | Time:00:00.61 | Rendering 26 / 96 samples
+Fra:1 Mem:46.51M (Peak 50.36M) | Time:00:00.66 | Rendering 51 / 96 samples
+Fra:1 Mem:46.51M (Peak 50.36M) | Time:00:00.70 | Rendering 76 / 96 samples
+Fra:1 Mem:46.51M (Peak 50.36M) | Time:00:00.74 | Rendering 96 / 96 samples
+Saved: 'E:\Blender\game_character_gyaru\renders_final\front.png'
+ Time: 00:01.43 (Saving: 00:00.68)
+
+Fra:1 Mem:45.67M (Peak 45.67M) | Time:00:00.02 | Syncing Body
+Fra:1 Mem:47.00M (Peak 47.00M) | Time:00:00.02 | Syncing Gyaru_Rig
+Fra:1 Mem:47.01M (Peak 47.01M) | Time:00:00.02 | Syncing Face
+Fra:1 Mem:47.59M (Peak 47.59M) | Time:00:00.02 | Syncing Eyes_and_brows
+Fra:1 Mem:48.12M (Peak 48.12M) | Time:00:00.02 | Syncing Accessories
+Fra:1 Mem:48.17M (Peak 48.17M) | Time:00:00.02 | Syncing Top
+Fra:1 Mem:48.37M (Peak 48.37M) | Time:00:00.02 | Syncing Shorts
+Fra:1 Mem:48.89M (Peak 48.89M) | Time:00:00.02 | Syncing Footwear
+Fra:1 Mem:49.36M (Peak 49.36M) | Time:00:00.02 | Syncing Hair
+Fra:1 Mem:50.36M (Peak 50.36M) | Time:00:00.03 | Syncing Front
+Fra:1 Mem:50.36M (Peak 50.36M) | Time:00:00.03 | Syncing Side
+Fra:1 Mem:50.36M (Peak 50.36M) | Time:00:00.03 | Syncing Back
+Fra:1 Mem:50.36M (Peak 50.36M) | Time:00:00.03 | Syncing ThreeQuarter
+Fra:1 Mem:50.36M (Peak 50.36M) | Time:00:00.03 | Syncing Key
+Fra:1 Mem:50.36M (Peak 50.36M) | Time:00:00.03 | Syncing Fill
+Fra:1 Mem:50.36M (Peak 50.36M) | Time:00:00.03 | Syncing Rim
+Fra:1 Mem:50.36M (Peak 50.36M) | Time:00:00.03 | Syncing Studio_ground
+Fra:1 Mem:50.36M (Peak 50.36M) | Time:00:00.03 | Rendering 1 / 96 samples
+Fra:1 Mem:46.51M (Peak 50.36M) | Time:00:00.18 | Rendering 26 / 96 samples
+Fra:1 Mem:46.51M (Peak 50.36M) | Time:00:00.24 | Rendering 51 / 96 samples
+Fra:1 Mem:46.51M (Peak 50.36M) | Time:00:00.30 | Rendering 76 / 96 samples
+Fra:1 Mem:46.51M (Peak 50.36M) | Time:00:00.35 | Rendering 96 / 96 samples
+Saved: 'E:\Blender\game_character_gyaru\renders_final\side.png'
+ Time: 00:00.47 (Saving: 00:00.11)
+
+Fra:1 Mem:45.67M (Peak 45.67M) | Time:00:00.01 | Syncing Body
+Fra:1 Mem:47.00M (Peak 47.00M) | Time:00:00.01 | Syncing Gyaru_Rig
+Fra:1 Mem:47.01M (Peak 47.01M) | Time:00:00.01 | Syncing Face
+Fra:1 Mem:47.59M (Peak 47.59M) | Time:00:00.01 | Syncing Eyes_and_brows
+Fra:1 Mem:48.12M (Peak 48.12M) | Time:00:00.01 | Syncing Accessories
+Fra:1 Mem:48.17M (Peak 48.17M) | Time:00:00.01 | Syncing Top
+Fra:1 Mem:48.37M (Peak 48.37M) | Time:00:00.01 | Syncing Shorts
+Fra:1 Mem:48.89M (Peak 48.89M) | Time:00:00.01 | Syncing Footwear
+Fra:1 Mem:49.36M (Peak 49.36M) | Time:00:00.01 | Syncing Hair
+Fra:1 Mem:50.36M (Peak 50.36M) | Time:00:00.01 | Syncing Front
+Fra:1 Mem:50.36M (Peak 50.36M) | Time:00:00.01 | Syncing Side
+Fra:1 Mem:50.36M (Peak 50.36M) | Time:00:00.01 | Syncing Back
+Fra:1 Mem:50.36M (Peak 50.36M) | Time:00:00.01 | Syncing ThreeQuarter
+Fra:1 Mem:50.36M (Peak 50.36M) | Time:00:00.01 | Syncing Key
+Fra:1 Mem:50.36M (Peak 50.36M) | Time:00:00.01 | Syncing Fill
+Fra:1 Mem:50.36M (Peak 50.36M) | Time:00:00.01 | Syncing Rim
+Fra:1 Mem:50.36M (Peak 50.36M) | Time:00:00.01 | Syncing Studio_ground
+Fra:1 Mem:50.36M (Peak 50.36M) | Time:00:00.02 | Rendering 1 / 96 samples
+Fra:1 Mem:46.51M (Peak 50.36M) | Time:00:00.10 | Rendering 26 / 96 samples
+Fra:1 Mem:46.51M (Peak 50.36M) | Time:00:00.15 | Rendering 51 / 96 samples
+Fra:1 Mem:46.51M (Peak 50.36M) | Time:00:00.20 | Rendering 76 / 96 samples
+Fra:1 Mem:46.51M (Peak 50.36M) | Time:00:00.23 | Rendering 96 / 96 samples
+Saved: 'E:\Blender\game_character_gyaru\renders_final\back.png'
+ Time: 00:00.34 (Saving: 00:00.09)
+
+Fra:1 Mem:45.67M (Peak 45.67M) | Time:00:00.00 | Syncing Body
+Fra:1 Mem:47.00M (Peak 47.00M) | Time:00:00.00 | Syncing Gyaru_Rig
+Fra:1 Mem:47.01M (Peak 47.01M) | Time:00:00.00 | Syncing Face
+Fra:1 Mem:47.59M (Peak 47.59M) | Time:00:00.01 | Syncing Eyes_and_brows
+Fra:1 Mem:48.12M (Peak 48.12M) | Time:00:00.01 | Syncing Accessories
+Fra:1 Mem:48.17M (Peak 48.17M) | Time:00:00.01 | Syncing Top
+Fra:1 Mem:48.37M (Peak 48.37M) | Time:00:00.01 | Syncing Shorts
+Fra:1 Mem:48.89M (Peak 48.89M) | Time:00:00.01 | Syncing Footwear
+Fra:1 Mem:49.36M (Peak 49.36M) | Time:00:00.01 | Syncing Hair
+Fra:1 Mem:50.36M (Peak 50.36M) | Time:00:00.01 | Syncing Front
+Fra:1 Mem:50.36M (Peak 50.36M) | Time:00:00.01 | Syncing Side
+Fra:1 Mem:50.36M (Peak 50.36M) | Time:00:00.01 | Syncing Back
+Fra:1 Mem:50.36M (Peak 50.36M) | Time:00:00.01 | Syncing ThreeQuarter
+Fra:1 Mem:50.36M (Peak 50.36M) | Time:00:00.01 | Syncing Key
+Fra:1 Mem:50.36M (Peak 50.36M) | Time:00:00.01 | Syncing Fill
+Fra:1 Mem:50.36M (Peak 50.36M) | Time:00:00.01 | Syncing Rim
+Fra:1 Mem:50.36M (Peak 50.36M) | Time:00:00.01 | Syncing Studio_ground
+Fra:1 Mem:50.36M (Peak 50.36M) | Time:00:00.01 | Rendering 1 / 96 samples
+Fra:1 Mem:46.51M (Peak 50.36M) | Time:00:00.10 | Rendering 26 / 96 samples
+Fra:1 Mem:46.51M (Peak 50.36M) | Time:00:00.16 | Rendering 51 / 96 samples
+Fra:1 Mem:46.51M (Peak 50.36M) | Time:00:00.22 | Rendering 76 / 96 samples
+Fra:1 Mem:46.51M (Peak 50.36M) | Time:00:00.27 | Rendering 96 / 96 samples
+Saved: 'E:\Blender\game_character_gyaru\renders_final\threequarter.png'
+ Time: 00:00.40 (Saving: 00:00.10)
+
+Fra:16 Mem:45.67M (Peak 45.67M) | Time:00:00.01 | Syncing Body
+Fra:16 Mem:47.00M (Peak 47.00M) | Time:00:00.01 | Syncing Gyaru_Rig
+Fra:16 Mem:47.01M (Peak 47.01M) | Time:00:00.01 | Syncing Face
+Fra:16 Mem:47.59M (Peak 47.59M) | Time:00:00.01 | Syncing Eyes_and_brows
+Fra:16 Mem:48.12M (Peak 48.12M) | Time:00:00.01 | Syncing Accessories
+Fra:16 Mem:48.17M (Peak 48.17M) | Time:00:00.01 | Syncing Top
+Fra:16 Mem:48.37M (Peak 48.37M) | Time:00:00.01 | Syncing Shorts
+Fra:16 Mem:48.89M (Peak 48.89M) | Time:00:00.01 | Syncing Footwear
+Fra:16 Mem:49.36M (Peak 49.36M) | Time:00:00.01 | Syncing Hair
+Fra:16 Mem:50.36M (Peak 50.36M) | Time:00:00.01 | Syncing Front
+Fra:16 Mem:50.36M (Peak 50.36M) | Time:00:00.01 | Syncing Side
+Fra:16 Mem:50.36M (Peak 50.36M) | Time:00:00.01 | Syncing Back
+Fra:16 Mem:50.36M (Peak 50.36M) | Time:00:00.01 | Syncing ThreeQuarter
+Fra:16 Mem:50.36M (Peak 50.36M) | Time:00:00.01 | Syncing Key
+Fra:16 Mem:50.36M (Peak 50.36M) | Time:00:00.01 | Syncing Fill
+Fra:16 Mem:50.36M (Peak 50.36M) | Time:00:00.01 | Syncing Rim
+Fra:16 Mem:50.36M (Peak 50.36M) | Time:00:00.01 | Syncing Studio_ground
+Fra:16 Mem:50.36M (Peak 50.36M) | Time:00:00.01 | Rendering 1 / 96 samples
+Fra:16 Mem:46.51M (Peak 50.36M) | Time:00:00.09 | Rendering 26 / 96 samples
+Fra:16 Mem:46.51M (Peak 50.36M) | Time:00:00.15 | Rendering 51 / 96 samples
+Fra:16 Mem:46.51M (Peak 50.36M) | Time:00:00.21 | Rendering 76 / 96 samples
+Fra:16 Mem:46.51M (Peak 50.36M) | Time:00:00.27 | Rendering 96 / 96 samples
+Saved: 'E:\Blender\game_character_gyaru\renders_final\rig_check.png'
+ Time: 00:00.39 (Saving: 00:00.10)
+
+23:40:51 | INFO: Draco mesh compression is available, use library at E:\blender-3.6.7-windows-x64\3.6\python\lib\site-packages\extern_draco.dll
+23:40:52 | INFO: Starting glTF 2.0 export
+23:40:52 | INFO: Extracting primitive: Torus
+23:40:52 | INFO: Primitives created: 1
+23:40:52 | INFO: Extracting primitive: Torso_base
+23:40:52 | INFO: Primitives created: 1
+23:40:52 | INFO: Extracting primitive: Sphere.010
+23:40:52 | INFO: Primitives created: 5
+23:40:52 | INFO: Extracting primitive: Head
+23:40:52 | INFO: Primitives created: 3
+23:40:52 | INFO: Extracting primitive: Sphere.026
+23:40:52 | INFO: Primitives created: 4
+23:40:52 | INFO: Extracting primitive: Hair_cap
+23:40:52 | INFO: Primitives created: 1
+23:40:52 | INFO: Extracting primitive: Sphere.022
+23:40:52 | INFO: Primitives created: 3
+23:40:52 | INFO: Extracting primitive: Top_hem
+23:40:52 | INFO: Primitives created: 1
+23:40:53 | INFO: Finished glTF 2.0 export in 1.0040724277496338 s
+
+
+FBX export starting... 'E:\\Blender\\game_character_gyaru/exports/gyaru_game_character.fbx'
+(bpy.data.armatures['Gyaru_skeleton'], 'POSE')
+(bpy.data.armatures['Gyaru_skeleton'], 'POSE')
+(bpy.data.armatures['Gyaru_skeleton'], 'POSE')
+(bpy.data.armatures['Gyaru_skeleton'], 'POSE')
+(bpy.data.armatures['Gyaru_skeleton'], 'POSE')
+(bpy.data.armatures['Gyaru_skeleton'], 'POSE')
+(bpy.data.armatures['Gyaru_skeleton'], 'POSE')
+(bpy.data.armatures['Gyaru_skeleton'], 'POSE')
+export finished in 1.4531 sec.
+Info: Saved "gyaru_game_character.blend"
+fake_module: addon missing 'bl_info' gives bad performance!: 'C:\\Users\\FORYOUCOM\\AppData\\Roaming\\Blender Foundation\\Blender\\3.6\\scripts\\addons\\hair.py'
+Data are loaded, start creating Blender stuff
+glTF import finished in 0.38s
+fake_module: addon missing 'bl_info' gives bad performance!: 'C:\\Users\\FORYOUCOM\\AppData\\Roaming\\Blender Foundation\\Blender\\3.6\\scripts\\addons\\hair.py'
+FBX version: 7400
+FINAL_REPORT {"mesh_objects": 8, "triangles": 59425, "vertices": 30230, "bones": 42, "height_m": 1.6032103300094604, "uv_all_meshes": true, "max_influences": 4, "all_vertices_weighted": true, "max_weight_sum_error": 5.21540641784668e-08, "glb": {"animations": ["Idle", "Rig_Check"], "skins": 1, "meshes": 8, "materials": 13, "embedded_images": 1}, "glb_reimport": {"meshes": 8, "armatures": 1, "bones": [42], "actions": ["Idle_Gyaru_Rig", "Rig_Check_Gyaru_Rig"], "height": 1.5982105182483792, "all_uv": true, "skinned_meshes": 8}, "fbx_reimport": {"meshes": 8, "armatures": 1, "bones": [42], "actions": ["Gyaru_Rig|Gyaru_Rig|Idle", "Gyaru_Rig|Gyaru_Rig|Rig_Check"], "height": 1.5982100907713175, "all_uv": true, "skinned_meshes": 8}}
+
+Blender quit
