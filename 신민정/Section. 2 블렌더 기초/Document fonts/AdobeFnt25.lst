@@ -1,0 +1,215 @@
+%!Adobe-FontList 1.25
+%Locale:0x412
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GothamRnd-Bold
+FamilyName:Gotham Rounded
+StyleName:Bold
+FullName:Gotham Rounded Bold
+MenuName:Gotham Rounded
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:F:\SHIN MIN JEONG\work\강의\콜로소\코스 4탄\책\전달\Section. 2 블렌더 기초 Folder\Document fonts\GothamRnd-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:110536
+FileModTime:1317884400
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Gotham Rounded Bold
+NameArray:0,Mac,4,Gotham Rounded Bold
+NameArray:0,Win,1,Gotham Rounded
+NameArray:0,Win,16,Gotham Rounded
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GothamRnd-BoldItalic
+FamilyName:Gotham Rounded
+StyleName:Bold Italic
+FullName:Gotham Rounded Bold Italic
+MenuName:Gotham Rounded
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:F:\SHIN MIN JEONG\work\강의\콜로소\코스 4탄\책\전달\Section. 2 블렌더 기초 Folder\Document fonts\GothamRnd-BoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:111320
+FileModTime:1317884400
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Gotham Rounded Bold Italic
+NameArray:0,Mac,4,Gotham Rounded Bold Italic
+NameArray:0,Win,1,Gotham Rounded
+NameArray:0,Win,16,Gotham Rounded
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GothamRnd-Medium
+FamilyName:Gotham Rounded
+StyleName:Medium
+FullName:Gotham Rounded Medium
+MenuName:Gotham Rounded Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\SHIN MIN JEONG\work\강의\콜로소\코스 4탄\책\전달\Section. 2 블렌더 기초 Folder\Document fonts\GothamRnd-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:114236
+FileModTime:1317884400
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Gotham Rounded Medium
+NameArray:0,Mac,4,Gotham Rounded Medium
+NameArray:0,Win,1,Gotham Rounded Medium
+NameArray:0,Win,16,Gotham Rounded
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NanumSquareNeo-cBd
+FamilyName:NanumSquare Neo OTF
+StyleName:Bold
+FullName:NanumSquare Neo OTF Bold
+MenuName:나눔스퀘어 네오 OTF Bold
+StyleBits:0
+FamilyNameNative:나눔스퀘어 네오 OTF
+StyleNameNative:Bold
+FullNameNative:나눔스퀘어 네오 OTF Bold
+WritingScript:Korean
+OutlineFileName:F:\SHIN MIN JEONG\work\강의\콜로소\코스 4탄\책\전달\Section. 2 블렌더 기초 Folder\Document fonts\NanumSquareNeoOTF-Bd.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1643528
+FileModTime:1681976744
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumSquare Neo OTF Bold
+NameArray:3,Mac,4,나눔스퀘어 네오 OTF Bold
+NameArray:0,Win,1,NanumSquare Neo OTF Bold
+NameArray:0,Win,16,NanumSquare Neo OTF
+NameArray:3,Win,1,나눔스퀘어 네오 OTF Bold
+NameArray:3,Win,16,나눔스퀘어 네오 OTF
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NanumSquareNeo-dEb
+FamilyName:NanumSquare Neo OTF
+StyleName:ExtraBold
+FullName:NanumSquare Neo OTF ExtraBold
+MenuName:나눔스퀘어 네오 OTF ExtraBold
+StyleBits:0
+FamilyNameNative:나눔스퀘어 네오 OTF
+StyleNameNative:ExtraBold
+FullNameNative:나눔스퀘어 네오 OTF ExtraBold
+WritingScript:Korean
+OutlineFileName:F:\SHIN MIN JEONG\work\강의\콜로소\코스 4탄\책\전달\Section. 2 블렌더 기초 Folder\Document fonts\NanumSquareNeoOTF-Eb.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1681436
+FileModTime:1681976744
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumSquare Neo OTF ExtraBold
+NameArray:3,Mac,4,나눔스퀘어 네오 OTF ExtraBold
+NameArray:0,Win,1,NanumSquare Neo OTF ExtraBold
+NameArray:0,Win,16,NanumSquare Neo OTF
+NameArray:3,Win,1,나눔스퀘어 네오 OTF ExtraBold
+NameArray:3,Win,16,나눔스퀘어 네오 OTF
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NanumSquareNeo-eHv
+FamilyName:NanumSquare Neo OTF
+StyleName:Heavy
+FullName:NanumSquare Neo OTF Heavy
+MenuName:나눔스퀘어 네오 OTF Heavy
+StyleBits:0
+FamilyNameNative:나눔스퀘어 네오 OTF
+StyleNameNative:Heavy
+FullNameNative:나눔스퀘어 네오 OTF Heavy
+WritingScript:Korean
+OutlineFileName:F:\SHIN MIN JEONG\work\강의\콜로소\코스 4탄\책\전달\Section. 2 블렌더 기초 Folder\Document fonts\NanumSquareNeoOTF-Hv.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1673844
+FileModTime:1681976742
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumSquare Neo OTF Heavy
+NameArray:3,Mac,4,나눔스퀘어 네오 OTF Heavy
+NameArray:0,Win,1,NanumSquare Neo OTF Heavy
+NameArray:0,Win,16,NanumSquare Neo OTF
+NameArray:3,Win,1,나눔스퀘어 네오 OTF Heavy
+NameArray:3,Win,16,나눔스퀘어 네오 OTF
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NanumSquareNeo-bRg
+FamilyName:NanumSquare Neo OTF
+StyleName:Regular
+FullName:NanumSquare Neo OTF Regular
+MenuName:나눔스퀘어 네오 OTF Regular
+StyleBits:0
+FamilyNameNative:나눔스퀘어 네오 OTF
+StyleNameNative:Regular
+FullNameNative:나눔스퀘어 네오 OTF Regular
+WritingScript:Korean
+OutlineFileName:F:\SHIN MIN JEONG\work\강의\콜로소\코스 4탄\책\전달\Section. 2 블렌더 기초 Folder\Document fonts\NanumSquareNeoOTF-Rg.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1669400
+FileModTime:1681976742
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumSquare Neo OTF Regular
+NameArray:3,Mac,4,나눔스퀘어 네오 OTF Regular
+NameArray:0,Win,1,NanumSquare Neo OTF Regular
+NameArray:0,Win,16,NanumSquare Neo OTF
+NameArray:3,Win,1,나눔스퀘어 네오 OTF Regular
+NameArray:3,Win,16,나눔스퀘어 네오 OTF
+%EndFont
+

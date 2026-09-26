@@ -1,0 +1,87 @@
+%!Adobe-FontList 1.25
+%Locale:0x412
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GothamRnd-Bold
+FamilyName:Gotham Rounded
+StyleName:Bold
+FullName:Gotham Rounded Bold
+MenuName:Gotham Rounded
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:F:\SHIN MIN JEONG\work\강의\콜로소\코스 4탄\책\전달\Section. 3 오브젝트 중심점, 3D Cursor 이해하기 Folder\Document fonts\GothamRnd-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:110536
+FileModTime:1317884400
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Gotham Rounded Bold
+NameArray:0,Mac,4,Gotham Rounded Bold
+NameArray:0,Win,1,Gotham Rounded
+NameArray:0,Win,16,Gotham Rounded
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GothamRnd-BoldItalic
+FamilyName:Gotham Rounded
+StyleName:Bold Italic
+FullName:Gotham Rounded Bold Italic
+MenuName:Gotham Rounded
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:F:\SHIN MIN JEONG\work\강의\콜로소\코스 4탄\책\전달\Section. 3 오브젝트 중심점, 3D Cursor 이해하기 Folder\Document fonts\GothamRnd-BoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:111320
+FileModTime:1317884400
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Gotham Rounded Bold Italic
+NameArray:0,Mac,4,Gotham Rounded Bold Italic
+NameArray:0,Win,1,Gotham Rounded
+NameArray:0,Win,16,Gotham Rounded
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GothamRnd-Book
+FamilyName:Gotham Rounded
+StyleName:Book
+FullName:Gotham Rounded Book
+MenuName:Gotham Rounded
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\SHIN MIN JEONG\work\강의\콜로소\코스 4탄\책\전달\Section. 3 오브젝트 중심점, 3D Cursor 이해하기 Folder\Document fonts\GothamRnd-Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:113472
+FileModTime:1317884400
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Gotham Rounded Book
+NameArray:0,Mac,4,Gotham Rounded Book
+NameArray:0,Win,1,Gotham Rounded
+NameArray:0,Win,16,Gotham Rounded
+%EndFont
+
